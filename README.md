@@ -1,7 +1,15 @@
-# burt-practical-assignment-<sedillo>-<claude>
+# burt-practical-assignment
 Practical Assignment for Burt written in python 3.12
 
-**Requirements**
+<<<<<<< Updated upstream
+#Requirements
+=======
+<<<<<<< HEAD
+# Requirements
+=======
+#Requirements
+>>>>>>> c3b3dd9ecc8df42241306a60f19b108049f134d6
+>>>>>>> Stashed changes
 Python 3.12
 
 # Setup / Virtual Environment
@@ -12,7 +20,8 @@ In the `burt-practical-assignment-sedillo-claude` folder, create a virtual envir
 py -3.12 -m venv .venv
 ```
 
-**Code walkthrough**
+# Code walkthrough
+
 The project contains only one script that reads the two JSON files and processes the data into the two CSV reports requested by the client.
 
 As the instructions state to assume the code is production ready, the file paths are defined using BASE_DIR, DATA_DIR, and REPORTS_DIR to make the script independent from where it's executed from. The option of manually setting file paths were also considered, but was decided not to for the sake of simplicity.
@@ -40,7 +49,7 @@ The revenue is processed in the parse_revenue method. Since the values sometimes
 
 Finally, the two reports are written as transaction_report.csv and store_summary.csv using Python's built-in csv module.
 
-**How to generate reports**
+# How to generate reports
 
 Make sure Python 3.12 is installed and the virtual environment is activated.
 
@@ -56,7 +65,7 @@ To run, simply run the following command:
 python src\run.py
 ```
 
-**How to run tests**
+# How to run tests
 
 From the project root directory, run:
 
@@ -64,9 +73,15 @@ From the project root directory, run:
 python -m unittest discover -s tests -v
 ```
 
-**Output file names**
+# Output file names
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
 
 Output Files
+>>>>>>> c3b3dd9ecc8df42241306a60f19b108049f134d6
 
 The generated reports are saved in the reports directory:
 
