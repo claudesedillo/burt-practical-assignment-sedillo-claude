@@ -1,15 +1,7 @@
 # burt-practical-assignment
 Practical Assignment for Burt written in python 3.12
 
-<<<<<<< Updated upstream
-#Requirements
-=======
-<<<<<<< HEAD
 # Requirements
-=======
-#Requirements
->>>>>>> c3b3dd9ecc8df42241306a60f19b108049f134d6
->>>>>>> Stashed changes
 Python 3.12
 
 # Setup / Virtual Environment
@@ -74,16 +66,7 @@ python -m unittest discover -s tests -v
 ```
 
 # Output file names
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
-=======
->>>>>>> Stashed changes
-
-Output Files
->>>>>>> c3b3dd9ecc8df42241306a60f19b108049f134d6
-
 The generated reports are saved in the reports directory:
 
-transaction_report.csv - contains the detailed transaction report
-store_summary.csv - contains the aggregated sales totals for each store
+- transaction_report.csv - contains the detailed transaction report
+- store_summary.csv - contains the aggregated sales totals for each store
