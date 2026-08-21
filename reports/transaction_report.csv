@@ -1,0 +1,15 @@
+date,country,channel,category,shop_name,shop_city,units_sold,revenue,transactions
+2024-03-01,US,online,electronics,Downtown Flagship,San Francisco,150,123.45,80
+2024-03-01,US,in_store,electronics,Downtown Flagship,San Francisco,300,210.10,140
+2024-03-01,GB,online,apparel,City Centre,London,50,89.00,30
+2024-03-01,US,online,electronics,Downtown Flagship,San Francisco,150,123.45,80
+2024-03-01,SE,online,home,Harbour Mall,Stockholm,80,"1,234.50",60
+2024-03-01,DE,in_store,electronics,City Centre,London,0,$0.00,5
+2024-03-01,FR,online,apparel,Riverside Outlet,Paris,120,N/A,75
+2024-03-01,US,in_store,electronics,Downtown Flagship,San Francisco,20,15.00,12
+2024-03-01,US,online,home,N/A,N/A,10,9.99,8
+2024-03-01,NO,in_store,electronics,City Centre,London,70,45.20,40
+2024-03-01,N/A,online,electronics,Harbour Mall,Stockholm,30,12.00,20
+2024-03-01,US,online,electronics,Downtown Flagship,San Francisco,25,50.00,25
+2024-03-02,US,online,electronics,Downtown Flagship,San Francisco,160,130.00,90
+2024-03-02,GB,in_store,apparel,City Centre,London,40,40.00,N/A
